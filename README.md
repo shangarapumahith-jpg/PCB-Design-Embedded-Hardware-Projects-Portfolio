@@ -1,4 +1,3 @@
-# PCB-Design-Embedded-Hardware-Projects-Portfolio
 # PCB Design & Embedded Hardware Portfolio
 ### Shangarapu Mahith Kumar — Embedded Hardware Design Engineer
 
